@@ -13,3 +13,4 @@ redis:6
 valkey/valkey:8
 minio/minio
 openjdk:17-jdk-slim
+elasticsearch:7.12.1
