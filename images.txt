@@ -14,3 +14,4 @@ valkey/valkey:8
 minio/minio
 openjdk:17-jdk-slim
 elasticsearch:7.12.1
+zyplayer/zyplayer-doc:latest
